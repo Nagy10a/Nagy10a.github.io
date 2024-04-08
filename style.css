@@ -1,0 +1,12 @@
+body{
+    background-color:  rgba(247, 170, 5, 0.63);
+    text-align: center;
+}
+
+.container{
+    background-color: lightyellow;
+   
+    max-width: 1000px;
+    margin: auto;
+    border: 10px solid black;
+}
