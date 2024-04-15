@@ -17,3 +17,6 @@ body{
     
     border: 10px solid black;
 }
+h1{
+    background: linear-gradient(red, purple);
+}
