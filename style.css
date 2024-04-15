@@ -1,5 +1,5 @@
 body{
-    background: linear-gradient(pink, blue);
+    background: linear-gradient(rgba(254, 84, 254, 0.902), blue);
     text-align: center;
       
     display: flex;
@@ -18,5 +18,10 @@ body{
     border: 10px solid black;
 }
 h1{
-    background: linear-gradient(red, purple);
+    color: aqua,;
+}
+.y{
+    display: flex;
+    vertical-align: auto;
+    justify-content: left;
 }
